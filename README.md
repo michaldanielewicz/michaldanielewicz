@@ -3,7 +3,7 @@
 
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
-Below you can find **some** of my projects:
+Below you can find _**some**_ of my projects:
 1. VBA Excel Automation Components
 2. Python Blackjack
 3. C++ triangle
