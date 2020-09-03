@@ -5,8 +5,8 @@
 📫 Feel free to contact me at: 
 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
-- instagram: michal_danielewicz
-- facebook: michaldanieIewicz
+- <a href="https://www.instagram.com/michal_danielewicz/">instagram</a>: michal_danielewicz
+- <a href="https://www.facebook.com/michaldanieIewicz/">facebook</a>: michaldanieIewicz
 - mailto: michaldanielewicz94@gmail.com
 
 I'm still underground developer, but expected to make these numbers big.
