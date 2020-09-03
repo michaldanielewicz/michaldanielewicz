@@ -1,4 +1,4 @@
-### Hi there (probably) HR person! Nice to see you. 😊 You are the  ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaldanielewicz.visitor-badge) visitor.
+### Hi there (probably) HR person! Nice to see you. 😊 
 My profile is still under construction! 🔧
 Sorry for the inconvenience.
 
@@ -9,3 +9,5 @@ Sorry for the inconvenience.
 > github: anishLearnsToCode
 > mailto: michaldanielewicz94@gmail.com
 
+I'm still underground developer, but expected to make these numbers big.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=michaldanielewicz.visitor-badge)
