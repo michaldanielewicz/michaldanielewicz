@@ -1,4 +1,6 @@
 ### Hi there 👋
+My profile is still under construction! 
+Sorry for inconvenience.
 
 <!--
 **michaldanielewicz/michaldanielewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +13,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+> linkedin: michaldanielewicz
+> instagram: michal_danielewicz
+> github: anishLearnsToCode
+> mailto: michaldanielewicz94@gmail.com
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
