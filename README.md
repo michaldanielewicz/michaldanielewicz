@@ -4,10 +4,12 @@
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
 Below you can find some of my projects:
-1. Project nr 1
-2. Project nr 2
-3. Project nr 3 
-4. Project nr 4
+1. VBA Excel Automation Components
+2. Python Blackjack
+3. C++ triangle
+4. Image processing Unison
+5. HMI design UniOne
+6. Uni - Air
 
 📫 Feel free to contact me day and night at: 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
