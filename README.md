@@ -6,7 +6,7 @@ Sorry for the inconvenience.
 
 > linkedin: michaldanielewicz
 > instagram: michal_danielewicz
-> github: anishLearnsToCode
+> facebook: michaldanieIewicz
 > mailto: michaldanielewicz94@gmail.com
 
 I'm still underground developer, but expected to make these numbers big.
