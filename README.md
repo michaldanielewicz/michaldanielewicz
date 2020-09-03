@@ -1,10 +1,10 @@
-### Hi there (probably) HR person! Nice to see you. 😊 
+### Hi there (probably) HR person!  Nice to see you. 😊 
 ![My profile is still under construction! 🔧]
   Sorry for the inconvenience.
 
 📫 Feel free to contact me at: 
 
-- linkedin: michaldanielewicz
+- <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
 - instagram: michal_danielewicz
 - facebook: michaldanieIewicz
 - mailto: michaldanielewicz94@gmail.com
