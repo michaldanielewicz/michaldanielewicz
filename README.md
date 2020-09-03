@@ -10,7 +10,9 @@ Below you can find some of my projects:
 4. Image processing Unison
 5. HMI design UniOne
 6. Uni - Air
-
+  
+There are much more projects that unfortunately can't share here. These relates to my work done as automation engineer in various companies.
+  
 📫 Feel free to contact me day and night at: 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
 - <a href="https://www.instagram.com/michal_danielewicz/">instagram</a>: michal_danielewicz
