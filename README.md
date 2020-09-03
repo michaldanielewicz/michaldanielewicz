@@ -2,7 +2,7 @@
 My profile is still under construction! 🔧
 Sorry for the inconvenience.
 
-- 📫 Contact me at: 
+📫 Feel free to contact me at: 
 
 > linkedin: michaldanielewicz
 > instagram: michal_danielewicz
