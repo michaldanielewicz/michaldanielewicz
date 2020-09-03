@@ -1,4 +1,4 @@
-## Hi there (probably) HR person!  Nice to meet you. 😊
+## Hi there *probably* HR person!  Nice to meet you. 😊
 #### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
 I like to automate things. </br> I like cleane code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
