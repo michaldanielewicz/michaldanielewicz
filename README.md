@@ -3,7 +3,7 @@
 
 I like to automate things. </br> I like cleane code. </br> Probably one of few control systems engineer that have read Uncle Bob book.   
 </br>
-Below you can find some of my projects.
+Below you can find some of my projects:
 1. Project nr 1
 2. Project nr 2
 3. Project nr 3 
