@@ -1,9 +1,6 @@
 ### Hi there (probably) HR person! Nice to see you. 😊 You are the _ visitor.
-My profile is still under construction! 
+My profile is still under construction! 🔧
 Sorry for inconvenience.
-
-<!--
-**michaldanielewicz/michaldanielewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
