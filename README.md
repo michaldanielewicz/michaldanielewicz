@@ -1,6 +1,5 @@
-### Hi there (probably) HR person!  Nice to see you. 😊 
-<p> My profile is still under construction! 🔧 </p>
-  Sorry for the inconvenience.
+## Hi there (probably) HR person!  Nice to see you. 😊 
+### My profile is still under construction! 🔧  Sorry for the inconvenience.
 
 📫 Feel free to contact me at: 
 
