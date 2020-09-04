@@ -7,9 +7,10 @@ Below you can find _**some**_ of my projects:
 1. VBA Excel Automation Components
 2. Python Blackjack
 3. C++ triangle
-4. Image processing Unison
+4. Image processing Unison 
 5. HMI design UniOne
 6. Uni - Air
+7. Snake game on the CNC machine - implemented in Structured Language (PLC).
   
 📫 Feel free to contact me day and night at: 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
