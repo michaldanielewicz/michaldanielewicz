@@ -1,7 +1,7 @@
 ## Hi there *probably* HR person!  Nice to meet you. 😊
 #### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
-Something about me: 
+Something about me:  
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
 Below you can find _**some**_ of my projects:
