@@ -1,6 +1,7 @@
 ## Hi there *probably* HR person!  Nice to meet you. 😊
 #### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
+Something about me: 
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
 Below you can find _**some**_ of my projects:
@@ -19,4 +20,4 @@ Below you can find _**some**_ of my projects:
 - mailto: michaldanielewicz94@gmail.com
 
 I'm still an underground developer but expected to make this number **big**. 👉 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaldanielewicz.visitor-badge)  
-You know someone who would liked me? Send them my profile! 📬 
+You know someone who would liked me? Send them my profile! 💌 
