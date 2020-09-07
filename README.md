@@ -6,11 +6,11 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
   
 ### :file_folder: Below you can find _**some**_ of my projects:
 1. VBA Excel Automation Components
-2. Python Blackjack
-3. C++ triangle
-4. Image processing Unison 
-5. HMI design UniOne
-6. Uni - Air
+2. Blackjack implemented in Python
+3. Triangle in C++
+4. Image processing - algorithm used for object detection for varnishing machine
+5. HMI design of Uni-One project
+6. Uni - Air - air preparation system
 7. Snake game on the CNC machine - implemented in Structured Language (PLC).
   
 ### 📫 Feel free to contact me day and night at: 
