@@ -8,10 +8,10 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
 1. VBA Excel Automation Components
 2. Blackjack implemented in Python
 3. Triangle in C++
-4. Image processing - algorithm used for object detection for varnishing machine
-5. HMI design of Uni-One project
-6. Uni - Air - air preparation system
-7. Snake game on the CNC machine - implemented in Structured Language (PLC).
+4. Image processing - algorithm used for object detection for varnishing machine (PLC)
+5. HMI design of Uni-One project (PLC)
+6. Uni - Air - air preparation system (PLC)
+7. Snake game on the CNC machine - implemented in Structured Language (PLC)
   
 ### 📫 Feel free to contact me day and night at: 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
