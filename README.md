@@ -5,7 +5,7 @@
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
 ### :file_folder: Below you can find _**some**_ of my projects:
-1. Selection and pricing of Control System Components (VBA Excel)
+1. <a href="https://github.com/michaldanielewicz/TicTacToe-game/blob/master/README.md">Tic-Tac-Toe game (Python)</a> 
 2. <a href="https://github.com/michaldanielewicz/Blackjack-Python/blob/master/README.md">Blackjack game (Python)</a> 
 3. Triangle - the smallest sum (C++)
 4. Image processing - algorithm used for object detection for varnishing machine (PLC)
