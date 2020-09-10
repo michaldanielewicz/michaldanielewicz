@@ -5,9 +5,9 @@
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
 ### :file_folder: Below you can find _**some**_ of my projects:
-1. VBA Excel Automation Components
-2. <a href="https://github.com/michaldanielewicz/Blackjack-Python/blob/master/README.md">Blackjack game implemented in Python</a> 
-3. Triangle in C++
+1. Selection and pricing of Control System Components (VBA Excel)
+2. <a href="https://github.com/michaldanielewicz/Blackjack-Python/blob/master/README.md">Blackjack game (Python)</a> 
+3. Triangle - the smallest sum (C++)
 4. Image processing - algorithm used for object detection for varnishing machine (PLC)
 5. HMI design of Uni-One project (PLC)
 6. Uni - Air - air preparation system (PLC)
