@@ -6,7 +6,7 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
   
 ### :file_folder: Below you can find _**some**_ of my projects:
 1. VBA Excel Automation Components
-2. Blackjack implemented in Python
+2. <a href="https://github.com/michaldanielewicz/Blackjack-Python/blob/master/README.md">Blackjack game implemented in Python</a> 
 3. Triangle in C++
 4. Image processing - algorithm used for object detection for varnishing machine (PLC)
 5. HMI design of Uni-One project (PLC)
@@ -14,9 +14,9 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
 7. Snake game on the CNC machine - implemented in Structured Language (PLC)
   
 ### 📫 Feel free to contact me day and night at: 
-- <a href="https://www.linkedin.com/in/michaldanielewicz/">linkedin</a>: michaldanielewicz
-- <a href="https://www.instagram.com/michal_danielewicz/">instagram</a>: michal_danielewicz
-- <a href="https://www.facebook.com/michaldanieIewicz/">facebook</a>: michaldanieIewicz
+- <a href="https://www.linkedin.com/in/michaldanielewicz/">LinkedIn</a>: michaldanielewicz
+- <a href="https://www.instagram.com/michal_danielewicz/">Instagram</a>: michal_danielewicz
+- <a href="https://www.facebook.com/michaldanieIewicz/">Facebook</a>: michaldanieIewicz
 - mailto: michaldanielewicz94@gmail.com
 
 I'm still an underground developer but expected to make this number **big**. 👉 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaldanielewicz.visitor-badge)  
