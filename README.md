@@ -9,7 +9,7 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
 2. <a href="https://github.com/michaldanielewicz/Blackjack-Python">Blackjack game (Python)</a> 
 3. Triangle - the smallest sum (C++)
 4. Image processing - algorithm used for object detection for varnishing machine (PLC)
-5. HMI design of Uni-One project (PLC)
+5. User Interface (HMI design) for automotive customer (PLC)
 6. Uni - Air - air preparation system (PLC)
 7. Snake game on the CNC machine - implemented in Structured Language (PLC)
   
