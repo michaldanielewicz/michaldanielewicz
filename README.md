@@ -1,9 +1,12 @@
 ## Hi there *probably* HR person!  Nice to meet you. 😊
 #### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
-### 	:superhero_man: Something about me:  
+### :superhero_man: Something about me:  
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
   
+### :telescope: Right now: 
+I'm learning Flutter to develop app used for time measuring system. The main feature is to show current leaderboard for a track. It will be used for a slalom/giant slalom. :snowboarder:
+
 ### :file_folder: Below you can find _**some**_ of my projects:
 1. <a href="https://github.com/michaldanielewicz/TicTacToe-game">Tic-Tac-Toe game (Python)</a> 
 2. <a href="https://github.com/michaldanielewicz/Blackjack-Python">Blackjack game (Python)</a> 
