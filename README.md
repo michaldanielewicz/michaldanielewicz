@@ -1,4 +1,4 @@
-## Hi there *probably* HR person!  Nice to meet you. 😊
+## Nice to meet you. 😊
 #### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
 ### :superhero_man: Something about me:  
