@@ -1,5 +1,4 @@
 ## Nice to meet you. 😊
-#### My profile is still under construction! 🔧 </br> Sorry for the inconvenience.
 
 ### :superhero_man: Something about me:  
 I like to automate things. </br> I like clean code. </br> Probably one of few control systems engineer that have read **Uncle Bob** book. 👴
@@ -7,15 +6,8 @@ I like to automate things. </br> I like clean code. </br> Probably one of few co
 ### :telescope: Right now: 
 I'm learning Flutter to develop app used for time measuring system. The main feature is to show current leaderboard for a track. It will be used for a slalom/giant slalom. :snowboarder:
 
-### :file_folder: Below you can find _**some**_ of my projects:
-1. <a href="https://github.com/michaldanielewicz/TicTacToe-game">Tic-Tac-Toe game (Python)</a> 
-2. <a href="https://github.com/michaldanielewicz/Blackjack-Python">Blackjack game (Python)</a> 
-3. Triangle - the smallest sum (C++)
-4. Image processing - algorithm used for object detection for varnishing machine (PLC)
-5. User Interface (HMI design) for automotive customer (PLC)
-6. Uni - Air - air preparation system (PLC)
-7. Snake game on the CNC machine - implemented in Structured Language (PLC)
-  
+### :file_folder: Check out my <a href="https://michaldanielewicz.github.io/">portfolio page</a>.
+
 ### 📫 Feel free to contact me day and night at: 
 - <a href="https://www.linkedin.com/in/michaldanielewicz/">LinkedIn</a>: michaldanielewicz
 - <a href="https://www.instagram.com/michal_danielewicz/">Instagram</a>: michal_danielewicz
